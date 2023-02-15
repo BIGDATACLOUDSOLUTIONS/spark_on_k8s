@@ -1,0 +1,14 @@
+#SBT
+target
+project
+
+
+# IntelliJ
+.bsp
+null
+.idea
+.idea_modules
+*.iml
+*.ipr
+*.iws
+.history
